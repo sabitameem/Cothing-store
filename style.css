@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+/* it also works as the bg-secondary.... but when you want to override something adding !important is helpful */
+
+/* .custom-navbar{
+    background-color: #414C55 !important;
+   
+} */
+.nav-link{
+    color: #fff;
+}
